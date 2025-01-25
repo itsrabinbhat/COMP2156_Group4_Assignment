@@ -4,3 +4,19 @@ Learning DevOps is important in the Software Development Life Cycle as it bridge
 -> Improves collaboration between teams.
 -> Ensures seamless code integration and deployment.
 -> Offers real-time insights for quick fixes.
+
+Software Development Life Cycle:
+-> Planning: 
+            Define project scope, goals, and feasibility.
+-> Requirements Analysis: 
+            Gather and document user needs.
+-> Design: 
+            Create architectural and detailed designs.
+-> Development: 
+            Write and compile the code.
+-> Testing: 
+            Identify and fix bugs to ensure functionality.
+-> Deployment: 
+            Release the software for use.
+-> Maintenance: 
+            Provide updates and fix issues post-deployment.
