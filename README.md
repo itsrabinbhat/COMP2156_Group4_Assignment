@@ -2,6 +2,8 @@
 
 ## Group Members
 - **Leader:** Rabi Bhat (101513240) - [GitHub](https://github.com/itsrabinbhat)
+- **Member 2:** Lorena Quintan (101512525) - [GitHub](https://github.com/lorenaquintan)
+
 
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integratin.
