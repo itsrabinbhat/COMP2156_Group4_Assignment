@@ -3,6 +3,7 @@
 ## Group Members
 - **Leader:** Rabi Bhat (101513240) - [GitHub](https://github.com/itsrabinbhat)
 - **Member 2:** Lorena Quintan (101512525) - [GitHub](https://github.com/lorenaquintan)
+- **Member 3:** Christian Donggon (101498088) - [GitHub](https://github.com/Christian17-tech)
 
 
 ## Project Description
