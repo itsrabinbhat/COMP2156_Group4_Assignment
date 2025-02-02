@@ -1,0 +1,4 @@
+COMP2156 DevOps
+In this course students will learn in-depth of DevOps principles and its best practices that drive efficiency and collaboration
+in modern development environments. Students will also learn through hands-on experience using tools such as Ansible and Git
+and gain an understanding of essential data formats including XML, JSON, YAML and YANG. 
