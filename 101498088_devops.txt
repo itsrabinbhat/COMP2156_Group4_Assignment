@@ -2,3 +2,4 @@ Information about DevOps Course
 What is DevOps?
 --> DevOps is a cross-functional model that combines development and operations, while system administrators focus on maintaining a company's computer systems. 
 --> DevOps can also be best explained as people working together to conceive, build and deliver secure software at top speed.
+--> DevOps is the combination of practices and tools designed to increase an organization's ability to deliver applications and services faster than traditional software development processes.
