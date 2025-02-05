@@ -2,12 +2,12 @@
 
 ## Group Members ✨
 
-- **Leader:** Rabi Bhat () - [GitHub](https://github.com/priteshpatel)
+- **Leader:** Rabi Bhat (101513240) - [GitHub](https://github.com/itsrabinbhat)
 - **Member 2:** Lorena Quintan (101512525) - [GitHub](https://github.com/lorenaquintan)
-- **Member 3:** Christian Donggon () - [GitHub](https://github.com/johnsmith)
-- **Member 4:** Anna Golikova () - [GitHub](https://github.com/janedoe)
-- **Member 5:** Andrey Sweeting () - [GitHub](https://github.com/johnsmith)
-- **Member 6:** Manveer Sethi () - [GitHub](https://github.com/janedoe)
+- **Member 3:** Christian Donggon (101498088) - [GitHub](https://github.com/Christian17-tech)
+- **Member 4:** Anna Golikova (101445693) - [GitHub](https://github.com/)
+- **Member 5:** Andrey Sweeting (101441776) - [GitHub](https://github.com/ZeRat22)
+- **Member 6:** Manveer Sethi () - [GitHub](https://github.com/)
 
 
 ## Project Description 🐛
@@ -16,11 +16,11 @@ collaborative Git workflows, branching strategies, and CI/CD integration.
 
 ## Project Status 🌿
 **Leader:** Rabi Bhat 10/10 Completed! 🌟
-**Member 2:** Lorena Quintan 2/10 
-**Member 3:** Christian Donggon 2/10 
-**Member 4:** Anna Golikova 0/10
-**Member 5:** Andrey Sweeting 0/10
-**Member 6:** Manveer Sethi 0/10
+- **Member 2:** Lorena Quintan 5/10
+- **Member 3:** Christian Donggon 3/10
+- **Member 4:** Anna Golikova 0/10
+- **Member 5:** Andrey Sweeting 4/10
+- **Member 6:** Manveer Sethi 0/10
 
 ## Notes 👾
 Keeping Commiting files!
@@ -32,7 +32,7 @@ All changes are merged into the `main` branch via Pull Requests.
 
 1. git add 
 
-2. git commit -m "Proper Comment"
+2. git commit -m "Proper Comment here"
 
 3. Repeat!!!
 
