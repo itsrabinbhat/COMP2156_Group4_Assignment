@@ -16,9 +16,9 @@ collaborative Git workflows, branching strategies, and CI/CD integration.
 
 ## Project Status 🌿
 **Leader:** Rabi Bhat 10/10 Completed! 🌟
-- **Member 2:** Lorena Quintan 5/10
-- **Member 3:** Christian Donggon 3/10
-- **Member 4:** Anna Golikova 0/10
+- **Member 2:** Lorena Quintan 7/10
+- **Member 3:** Christian Donggon 4/10
+- **Member 4:** Anna Golikova 5/10
 - **Member 5:** Andrey Sweeting 4/10
 - **Member 6:** Manveer Sethi 0/10
 
