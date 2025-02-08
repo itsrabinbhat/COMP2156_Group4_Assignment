@@ -1,3 +1,5 @@
 Importance of learning DevOps in the software development cycle.
 --> The DevOps methodology aims to shorten the systems development lifecycle and provide continuous delivery with high software quality. It emphasizes collaboration, automation, integration and rapid feedback cycles. These characteristics help ensure a culture of building, testing, and releasing software that is more reliable and at a high velocity.
 --> enables faster development of new products and easier maintenance of existing deployments.
+--> Learning Devops teaches you on how to shorten the systems development lifecycle and provide continuous delivery with high software quality. It emphasizes collaboration, automation, integration and rapid feedback cycles.
+--> The primary goal learning DevOps is to prepare you on how to streamline and automate the application lifecycle to accelerate the delivery of high-quality products.
