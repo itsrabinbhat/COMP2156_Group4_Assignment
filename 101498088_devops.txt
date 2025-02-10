@@ -3,3 +3,6 @@ What is DevOps?
 --> DevOps is a cross-functional model that combines development and operations, while system administrators focus on maintaining a company's computer systems. 
 --> DevOps can also be best explained as people working together to conceive, build and deliver secure software at top speed.
 --> DevOps is the combination of practices and tools designed to increase an organization's ability to deliver applications and services faster than traditional software development processes.
+--> DevOps is a partnership between software development and IT operations that emphasizes communication, collaboration, and integration.
+--> DevOps enables coordination and collaboration between formerly siloed roles like development, IT operations, quality engineering, and security.
+--> DevOps is the integration and automation of the software development and information technology operations [a]. DevOps encompasses necessary tasks of software development and can lead to shortening development time and improving the development life cycle.
