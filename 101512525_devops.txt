@@ -1,4 +1,10 @@
-COMP2156 Course
-In this course students will learn the procedures,
-protocols and best practices that a DevOps engineer brings to a workplace
- environment to increase productivity.
+⚙️ DevOps for System Administration - COMP2156 Course at Gbc
+
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a workplace
+environment to increase productivity.
+
+🌿 Students will learn about:
+- Extenside Markup Language (XML)
+- JavaScript Object Notation (JSON)
+- Ymal Ain't Markup Language (YAML)
+- Yet Another Next Generation (YANG)
