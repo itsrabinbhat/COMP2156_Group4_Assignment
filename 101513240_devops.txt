@@ -1,7 +1,0 @@
-Introduction to COMP 3104 - DevOps Course:
---> COMP 3104 - DevOps is a foundational course designed to introduce students to the principles, practices, and tools that form the backbone of modern software development and operations. The course focuses on bridging the gap between development and IT operations, fostering collaboration, automation, and continuous improvement.
-
-Importance of DevOps:
--> It speeds up development and deployment with automation and CI/CD.
--> It ensures better software quality through testing and monitoring.
--> It enables scalable and relible infrastructure for growning demands.
