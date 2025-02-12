@@ -5,6 +5,7 @@
 - **Member 2:** Lorena Quintan (101512525) - [GitHub](https://github.com/lorenaquintan)
 - **Member 3:** Christian Donggon (101498088) - [GitHub](https://github.com/Christian17-tech)
 - **Member 4:** Anna Golikova (101445693) - [GitHub](https://github.com/Dalek0803)
+- **Member 5:** Member 4: Andrey Sweeting (101441776) - [GitHub](https://github.com/ZeRat22)
 
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
