@@ -1,3 +1,4 @@
+Why important?
 The importance of learning devops in the software devlopment cycle is that,
 it imporves the speedyness of dev cyles, imporves colloborations within the teams.
 
