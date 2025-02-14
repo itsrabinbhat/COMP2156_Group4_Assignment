@@ -1,10 +1,11 @@
+Manveer's branch
 # COMP2156_Group4_Assignment
 
 ## Group Members
 - **Leader:** Rabi Bhat (101513240) - [GitHub](https://github.com/itsrabinbhat)
 - **Member 2:** Lorena Quintan (101512525) - [GitHub](https://github.com/lorenaquintan)
 - **Member 3:** Christian Donggon (101498088) - [GitHub](https://github.com/Christian17-tech)
-
+- **Member 4:** Manveer Singh (101478461) - [Github](https://github.com/manveersingh28)
 
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integratin.
