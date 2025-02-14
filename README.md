@@ -5,9 +5,9 @@
 - **Leader:** Rabi Bhat (101513240) - [GitHub](https://github.com/itsrabinbhat)
 - **Member 2:** Lorena Quintan (101512525) - [GitHub](https://github.com/lorenaquintan)
 - **Member 3:** Christian Donggon (101498088) - [GitHub](https://github.com/Christian17-tech)
-- **Member 4:** Anna Golikova (101445693) - [GitHub](https://github.com/)
+- **Member 4:** Anna Golikova (101445693) - [GitHub](https://github.com/Dalek0803)
 - **Member 5:** Andrey Sweeting (101441776) - [GitHub](https://github.com/ZeRat22)
-- **Member 6:** Manveer Sethi () - [GitHub](https://github.com/)
+- **Member 6:** Manveer Sethi (101478461) - [GitHub](https://github.com/manveersingh28)
 
 
 ## Project Description 🐛
@@ -16,10 +16,10 @@ collaborative Git workflows, branching strategies, and CI/CD integration.
 
 ## Project Status 🌿
 **Leader:** Rabi Bhat 10/10 Completed! 🌟
-- **Member 2:** Lorena Quintan 7/10
-- **Member 3:** Christian Donggon 4/10
-- **Member 4:** Anna Golikova 5/10
-- **Member 5:** Andrey Sweeting 4/10
+- **Member 2:** Lorena Quintan Completed! 🌟
+- **Member 3:** Christian Donggon 8/10
+- **Member 4:** Anna Golikova 6/10
+- **Member 5:** Andrey Sweeting 7/10
 - **Member 6:** Manveer Sethi 0/10
 
 ## Notes 👾
