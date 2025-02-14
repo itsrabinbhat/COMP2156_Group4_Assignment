@@ -6,6 +6,7 @@
 - **Member 3:** Christian Donggon (101498088) - [GitHub](https://github.com/Christian17-tech)
 - **Member 4:** Anna Golikova (101445693) - [GitHub](https://github.com/Dalek0803)
 - **Member 5:** Andrey Sweeting (101441776) - [GitHub](https://github.com/ZeRat22)
+- **Member 6:** Manveer Sethi (101478461) - [GitHub](https://github.com/manveersingh28)
 
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
