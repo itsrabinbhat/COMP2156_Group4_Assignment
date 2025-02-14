@@ -1,4 +1,4 @@
-Manveer's branch
+
 # COMP2156_Group4_Assignment
 
 ## Group Members
