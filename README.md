@@ -25,8 +25,6 @@ in `.github/workflows/ci.yml`.
 ## Branching Strategy
 Each member has their own branch named `STUDENTID-Name`. All changes are
 merged into the `main` branch via Pull Requests.
-=======
-- **Member 4:** Manveer Singh (101478461) - [Github](https://github.com/manveersingh28)
 
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integratin.
