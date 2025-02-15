@@ -1,5 +1,6 @@
 Importance of DevOps in SDLC:
-Learning DevOps is important in the Software Development Life Cycle as it bridges the gap between Development and operations, enhancing efficieny and collaboration.
+--> Learning DevOps is important in the Software Development Life Cycle as it bridges the gap between Development and operations, enhancing efficiency and collaboration.
+
 -> Automates tasks for faster Software delivery.
 -> Improves collaboration between teams.
 -> Ensures seamless code integration and deployment.

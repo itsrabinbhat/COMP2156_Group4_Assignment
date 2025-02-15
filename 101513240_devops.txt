@@ -4,4 +4,4 @@ Introduction to COMP 3104 - DevOps Course:
 Importance of DevOps:
 -> It speeds up development and deployment with automation and CI/CD.
 -> It ensures better software quality through testing and monitoring.
--> It enables scalable and relible infrastructure for growning demands.
+-> It enables scalable and reliable infrastructure for growing demands.

@@ -1,3 +1,4 @@
+
 # COMP2156_Group4_Assignment
 
 ## Group Members
@@ -22,4 +23,4 @@ in `.github/workflows/ci.yml`.
 
 ## Branching Strategy 
 Each member has their own branch named `STUDENTID-Name`. All changes are 
-merged into the `main` branch via Pull Requests. 
+merged into the `main` branch via Pull Requests.
